@@ -1,4 +1,5 @@
 // Question(-answer will be only algorithm)
+
 //There will be two arrays of integers. Determine all integers that satisfy the following two conditions:
 // The elements of the first array are all factors of the integer being considered
 // The integer being considered is a factor of all elements of the second array
